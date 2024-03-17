@@ -1,0 +1,26 @@
+langchain_experimental
+langchain_core
+google-generativeai
+# ==0.3.1
+google-ai-generativelanguage
+# ==0.4.0
+langchain-google-genai
+langchain [docarray]
+pillow
+wheel
+pyaudio
+google-cloud-speech
+deepgram-sdk
+#==2.9.0
+playsound
+#==1.2.2 
+gTTS
+streamlit
+streamlit_javascript
+openai
+trulens_eval
+#==0.19.1
+llama_index
+airtable
+streamlit-audiorec
+google-cloud-storage
